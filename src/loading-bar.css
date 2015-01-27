@@ -64,7 +64,7 @@ display: none;
   position: fixed;
   z-index: 10002;
   top: 10px;
-  left: 10px;
+  left: 98%;
 }
 
 #loading-bar-spinner .spinner-icon {
