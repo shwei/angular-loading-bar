@@ -1,0 +1,9 @@
+node_modules
+test/coverage
+bower_components
+.editorconfig
+projectFilesBackup
+.idea
+src
+test
+example
